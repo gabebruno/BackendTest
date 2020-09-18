@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJpbv5FRDDzQMMtXfXUSUON8nG9f9k7Uo1N8Gje2gVXhzg3lrYVco88ZOIc2GEtwudzgbGa22+scmZmCuB2RDA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\BackendTest\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
